@@ -2,10 +2,11 @@
 // @name         csdn清爽页面
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  移除CSDN文章页面一些无用信息，只保留文章主题内容
+// @description  移除CSDN文章页面一些无用信息，只保留文章主体内容，包含免登陆查看评论
 // @author       You
 // @include      *://*.csdn.net/*
 // @grant        none
+// @license    MIT
 // ==/UserScript==
 
 (function() {
